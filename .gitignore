@@ -1,0 +1,29 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Node modules (if you ever add web content)
+node_modules/
+
+# VSCode settings
+.vscode/
+
+# Backup files
+*.bak
+*.old
+
+# PowerShell history
+*.history
+
