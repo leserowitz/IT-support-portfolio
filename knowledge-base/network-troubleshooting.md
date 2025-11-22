@@ -15,3 +15,7 @@
 6. Restart adapter  
 
 ## Commands
+ping 8.8.8.8
+ipconfig /flushdns
+ipconfig /renew
+tracert example.com
